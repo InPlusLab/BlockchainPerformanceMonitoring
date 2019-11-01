@@ -43,7 +43,8 @@ Just run `node main.js` in command.
 ## Paper
 If you are interested in this work, you can refer to our paper.
 
-Zheng, P., Zheng, Z., Luo, X., Chen, X., & Liu, X. (2018, May). A detailed and real-time performance monitoring framework for blockchain systems. In 2018 IEEE/ACM 40th International Conference on Software Engineering: Software Engineering in Practice Track (pp. 134-143). IEEE.
+[Zheng, P., Zheng, Z., Luo, X., Chen, X., & Liu, X. (2018, May). A detailed and real-time performance monitoring framework for blockchain systems. In 2018 IEEE/ACM 40th International Conference on Software Engineering: Software Engineering in Practice Track (pp. 134-143). IEEE.](http://xblock.pro/files/pl/a-detailed-and-real-time-performance-monitoring-framework-for-blockchain-systems.pdf)
+
 
 @inproceedings{zheng2018detailed,
   title={A detailed and real-time performance monitoring framework for blockchain systems},
